@@ -1,0 +1,362 @@
+[
+  {
+    "type": "CUSTOMER",
+    "verb": "NEW",
+    "key": "96f55c7d8f42",
+    "event_time": "2017-01-06:12:46.384Z",
+    "last_name": "Smith",
+    "adr_city": "Middletown",
+    "adr_state": "AK"
+  },
+  {
+    "type": "SITE_VISIT",
+    "verb": "NEW",
+    "key": "ac05e815502f",
+    "event_time": "2017-01-06:12:45:52.041Z",
+    "customer_id": "96f55c7d8f42",
+    "tags": {
+      "some key": "some value"
+    }
+  },
+  {
+    "type": "IMAGE",
+    "verb": "UPLOAD",
+    "key": "d8ede43b1d9f",
+    "event_time": "2017-01-06:12:47:12.344Z",
+    "customer_id": "96f55c7d8f42",
+    "camera_make": "Canon",
+    "camera_model": "EOS 80D"
+  },
+  {
+    "type": "ORDER",
+    "verb": "NEW",
+    "key": "68d84e5d1a43",
+    "event_time": "2017-01-06:12:55.55.555Z",
+    "customer_id": "96f55c7d8f42",
+    "total_amount": "12.34"
+  },
+  {
+    "type": "CUSTOMER",
+    "verb": "UPDATE",
+    "key": "96f55c7d8f42",
+    "event_time": "2017-01-01:12:46.384Z",
+    "last_name": "Smith",
+    "adr_city": "Middletown",
+    "adr_state": "AK"
+  },
+  {
+    "type": "SITE_VISIT",
+    "verb": "NEW",
+    "key": "ac05e815542f",
+    "event_time": "2017-01-01:12:45:52.041Z",
+    "customer_id": "96f55c7d8f42",
+    "tags": {
+      "some key": "some value"
+    }
+  },
+  {
+    "type": "IMAGE",
+    "verb": "UPLOAD",
+    "key": "d8ede43b1d8f",
+    "event_time": "2017-01-01:12:47:12.344Z",
+    "customer_id": "96f55c7d8f42",
+    "camera_make": "Canon",
+    "camera_model": "EOS 80D"
+  },
+  {
+    "type": "ORDER",
+    "verb": "NEW",
+    "key": "68d84e5d1g43",
+    "event_time": "2017-01-01:12:55.55.555Z",
+    "customer_id": "96f55c7d8f42",
+    "total_amount": "15.34"
+  },
+  {
+    "type": "CUSTOMER",
+    "verb": "NEW",
+    "key": "gkf55c7d8f42",
+    "event_time": "2017-01-01:12:46.384Z",
+    "last_name": "Goutam",
+    "adr_city": "Phoenix",
+    "adr_state": "AZ"
+  },
+  {
+    "type": "SITE_VISIT",
+    "verb": "NEW",
+    "key": "gk05e815542f",
+    "event_time": "2017-01-01:12:45:52.041Z",
+    "customer_id": "gkf55c7d8f42",
+    "tags": {
+      "some key": "some value"
+    }
+  },
+  {
+    "type": "IMAGE",
+    "verb": "UPLOAD",
+    "key": "gkede43b1d8f",
+    "event_time": "2017-01-01:12:47:12.344Z",
+    "customer_id": "gkf55c7d8f42",
+    "camera_make": "Nikon",
+    "camera_model": "D 7000"
+  },
+  {
+    "type": "ORDER",
+    "verb": "NEW",
+    "key": "gkd84e5d1g43",
+    "event_time": "2017-01-01:12:55.55.555Z",
+    "customer_id": "gkf55c7d8f42",
+    "total_amount": "10.34"
+  },
+  {
+    "type": "CUSTOMER",
+    "verb": "NEW",
+    "key": "paf55c7d8f42",
+    "event_time": "2017-01-01:12:46.384Z",
+    "last_name": "Parthiban",
+    "adr_city": "Phoenix",
+    "adr_state": "AZ"
+  },
+  {
+    "type": "SITE_VISIT",
+    "verb": "NEW",
+    "key": "pa05e815542f",
+    "event_time": "2017-01-01:12:45:52.041Z",
+    "customer_id": "paf55c7d8f42",
+    "tags": {
+      "some key": "some value"
+    }
+  },
+  {
+    "type": "IMAGE",
+    "verb": "UPLOAD",
+    "key": "paede43b1d8f",
+    "event_time": "2017-01-01:12:47:12.344Z",
+    "customer_id": "paf55c7d8f42",
+    "camera_make": "Canon",
+    "camera_model": "EOS 6D"
+  },
+  {
+    "type": "ORDER",
+    "verb": "NEW",
+    "key": "pad84e5d1g43",
+    "event_time": "2017-01-01:12:55.55.555Z",
+    "customer_id": "paf55c7d8f42",
+    "total_amount": "19.34"
+  },
+  {
+    "type": "CUSTOMER",
+    "verb": "NEW",
+    "key": "arf55c7d8f42",
+    "event_time": "2017-01-01:12:46.384Z",
+    "last_name": "Aravind",
+    "adr_city": "Phoenix",
+    "adr_state": "AZ"
+  },
+  {
+    "type": "SITE_VISIT",
+    "verb": "NEW",
+    "key": "ar05e815542f",
+    "event_time": "2017-01-01:12:45:52.041Z",
+    "customer_id": "arf55c7d8f42",
+    "tags": {
+      "some key": "some value"
+    }
+  },
+  {
+    "type": "IMAGE",
+    "verb": "UPLOAD",
+    "key": "arede43b1d8f",
+    "event_time": "2017-01-01:12:47:12.344Z",
+    "customer_id": "arf55c7d8f42",
+    "camera_make": "Canon",
+    "camera_model": "EOS 6D"
+  },
+  {
+    "type": "ORDER",
+    "verb": "NEW",
+    "key": "ard84e5d1g43",
+    "event_time": "2017-01-01:12:55.55.555Z",
+    "customer_id": "arf55c7d8f42",
+    "total_amount": "6.34"
+  },
+  {
+    "type": "CUSTOMER",
+    "verb": "NEW",
+    "key": "anf55c7d8f42",
+    "event_time": "2017-01-01:12:46.384Z",
+    "last_name": "Angu",
+    "adr_city": "Phoenix",
+    "adr_state": "AZ"
+  },
+  {
+    "type": "SITE_VISIT",
+    "verb": "NEW",
+    "key": "an05e815542f",
+    "event_time": "2017-01-01:12:45:52.041Z",
+    "customer_id": "anf55c7d8f42",
+    "tags": {
+      "some key": "some value"
+    }
+  },
+  {
+    "type": "IMAGE",
+    "verb": "UPLOAD",
+    "key": "anede43b1d8f",
+    "event_time": "2017-01-01:12:47:12.344Z",
+    "customer_id": "anf55c7d8f42",
+    "camera_make": "Canon",
+    "camera_model": "EOS 6D"
+  },
+  {
+    "type": "ORDER",
+    "verb": "NEW",
+    "key": "and84e5d1g43",
+    "event_time": "2017-01-01:12:55.55.555Z",
+    "customer_id": "anf55c7d8f42",
+    "total_amount": "9.34"
+  },
+  {
+    "type": "CUSTOMER",
+    "verb": "NEW",
+    "key": "phf55c7d8f42",
+    "event_time": "2017-01-01:12:46.384Z",
+    "last_name": "Sean",
+    "adr_city": "Phoenix",
+    "adr_state": "AZ"
+  },
+  {
+    "type": "SITE_VISIT",
+    "verb": "NEW",
+    "key": "an05e815542f",
+    "event_time": "2017-01-01:12:45:52.041Z",
+    "customer_id": "phf55c7d8f42",
+    "tags": {
+      "some key": "some value"
+    }
+  },
+  {
+    "type": "IMAGE",
+    "verb": "UPLOAD",
+    "key": "phede43b1d8f",
+    "event_time": "2017-01-01:12:47:12.344Z",
+    "customer_id": "phf55c7d8f42",
+    "camera_make": "Canon",
+    "camera_model": "EOS 6D"
+  },
+  {
+    "type": "ORDER",
+    "verb": "NEW",
+    "key": "and84e5d1g43",
+    "event_time": "2017-01-01:12:55.55.555Z",
+    "customer_id": "phf55c7d8f42",
+    "total_amount": "19.34"
+  },
+  {
+    "type": "CUSTOMER",
+    "verb": "NEW",
+    "key": "phf55c7d8f42",
+    "event_time": "2017-01-01:12:46.384Z",
+    "last_name": "Sean",
+    "adr_city": "sean",
+    "adr_state": "AZ"
+  },
+  {
+    "type": "SITE_VISIT",
+    "verb": "NEW",
+    "key": "se05e815542f",
+    "event_time": "2017-01-01:12:45:52.041Z",
+    "customer_id": "phf55c7d8f42",
+    "tags": {
+      "some key": "some value"
+    }
+  },
+  {
+    "type": "IMAGE",
+    "verb": "UPLOAD",
+    "key": "phede43b1d8f",
+    "event_time": "2017-01-01:12:47:12.344Z",
+    "customer_id": "phf55c7d8f42",
+    "camera_make": "Canon",
+    "camera_model": "EOS 6D"
+  },
+  {
+    "type": "ORDER",
+    "verb": "NEW",
+    "key": "and84e5d1g43",
+    "event_time": "2017-01-01:12:55.55.555Z",
+    "customer_id": "phf55c7d8f42",
+    "total_amount": "21.00"
+  },
+  {
+    "type": "CUSTOMER",
+    "verb": "NEW",
+    "key": "anf55c7d8f42",
+    "event_time": "2017-01-01:12:46.384Z",
+    "last_name": "Angu",
+    "adr_city": "Phoenix",
+    "adr_state": "AZ"
+  },
+  {
+    "type": "SITE_VISIT",
+    "verb": "NEW",
+    "key": "gk05e815542f",
+    "event_time": "2017-01-01:12:45:52.041Z",
+    "customer_id": "anf55c7d8f42",
+    "tags": {
+      "some key": "some value"
+    }
+  },
+  {
+    "type": "IMAGE",
+    "verb": "UPLOAD",
+    "key": "gkede43b1d8f",
+    "event_time": "2017-01-01:12:47:12.344Z",
+    "customer_id": "anf55c7d8f42",
+    "camera_make": "Canon",
+    "camera_model": "EOS 6D"
+  },
+  {
+    "type": "ORDER",
+    "verb": "NEW",
+    "key": "and84e5d1g43",
+    "event_time": "2017-01-01:12:55.55.555Z",
+    "customer_id": "anf55c7d8f42",
+    "total_amount": "10.90"
+  },
+  {
+    "type": "CUSTOMER",
+    "verb": "NEW",
+    "key": "huf55c7d8f42",
+    "event_time": "2017-01-01:12:46.384Z",
+    "last_name": "Houston",
+    "adr_city": "Austin",
+    "adr_state": "TX"
+  },
+  {
+    "type": "SITE_VISIT",
+    "verb": "NEW",
+    "key": "tx05e815542f",
+    "event_time": "2017-01-01:12:45:52.041Z",
+    "customer_id": "huf55c7d8f42",
+    "tags": {
+      "some key": "some value"
+    }
+  },
+  {
+    "type": "IMAGE",
+    "verb": "UPLOAD",
+    "key": "txede43b1d8f",
+    "event_time": "2017-01-01:12:47:12.344Z",
+    "customer_id": "huf55c7d8f42",
+    "camera_make": "Canon",
+    "camera_model": "EOS 6D"
+  },
+  {
+    "type": "ORDER",
+    "verb": "NEW",
+    "key": "and84e5d1g43",
+    "event_time": "2017-01-01:12:55.55.555Z",
+    "customer_id": "huf55c7d8f42",
+    "total_amount": "10.90"
+  }
+]
